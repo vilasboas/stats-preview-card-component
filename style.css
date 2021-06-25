@@ -94,6 +94,7 @@ p {
         border-top-left-radius: 0;
         border-bottom-right-radius: 10px;
         background-position: center;
+        background-size: cover;
     }
     .number {
         font-size: 25px;
